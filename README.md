@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **skill development projects**
 
-- 📫 How to reach me **: anketeshome@gmail.com**
+- 📫 How to reach me **: <a href=" anketeshome@gmail.com" > here </a>**
 
 - ⚡ Fun fact **: loves to learn new things everyday✨**
 
