@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aster Teshome</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **: python**
+- 🌱 I’m currently learning **: Web dev**
 
 - 👯 I’m looking to collaborate on **skill development projects**
 
