@@ -1,20 +1,93 @@
-<h1 align="center">Hi 👋, I'm Aster Teshome</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">
+  Hi 👋, I'm Aster Teshome
+</h1>
 
-- 🌱 I’m currently learning **: Web dev**
+<h3 align="center">
+  🚀 Software Engineering Student | Frontend Developer | Graphic Designer
+</h3>
 
-- 👯 I’m looking to collaborate on **skill development projects**
+<p align="center">
+  I love building creative digital experiences, developing web applications, 
+  and continuously learning new technologies.
+</p>
 
-- 📫 How to reach me **: <a href=" anketeshome@gmail.com" > here </a>**
+---
 
-- ⚡ Fun fact **: loves to learn new things everyday✨**
+## 👩‍💻 About Me
 
-- ✨ Interests **: Coding👩‍💻 , Reading Books📘, Songs🎵 , Exercises 🤸‍♀️ , Movies 🎬**
+- 🌱 Currently learning **Full Stack Web Development**
+- 💻 Passionate about **Frontend Development, UI/UX, and Software Engineering**
+- 🎨 Combining **technology + creativity** through development and design
+- 🤝 Open to collaborating on interesting projects
+- 📚 Love learning new skills and improving every day
+- ⚡ Fun fact: I enjoy coding, designing, reading books, music, and exploring new ideas
 
-- 👩 Pronouns: **She/Her**
+---
 
-<hr>
+## 🛠️ Languages & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,python,cpp,mysql,supabase,git,github,vscode,figma,ps,ai,canva&perline=8"/>
+
+</p>
+
+<p align="center">
+  <b>Design Tools:</b> Adobe Photoshop • Adobe Illustrator • Canva Pro • Figma
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anketruos&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anketruos&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anketruos&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### ⌨️ Fidel Keybr
+An Amharic typing practice platform inspired by modern typing applications, designed to help users improve their typing skills using the Amharic Fidel alphabet.
+
+### 🎨 Graphic Design Showcase
+A collection of creative designs including social media graphics, branding materials, posters, and digital content created using modern design tools.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Anketruos">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
