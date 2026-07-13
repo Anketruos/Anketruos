@@ -75,11 +75,15 @@ A food-focused digital platform designed to provide a simple and engaging experi
 <p align="center">
 
 <a href="https://github.com/Anketruos">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/aster-anket-teshome-373125364/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:anketeshome@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
