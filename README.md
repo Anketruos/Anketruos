@@ -42,9 +42,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anketruos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anketruos&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anketruos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anketruos&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
