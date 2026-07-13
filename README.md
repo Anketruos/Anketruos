@@ -78,7 +78,7 @@ A food-focused digital platform designed to provide a simple and engaging experi
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/aster-anket-teshome-373125364/">
+<a href="https://www.linkedin.com/in/aster-teshome-373125364">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
